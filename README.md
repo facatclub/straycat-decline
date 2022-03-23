@@ -1,4 +1,4 @@
-# straycat-decline
+# straycat-decline(Still studying)
 TurboWarp,Parkour,adventure,story
 
 ![封面2](https://user-images.githubusercontent.com/90503283/159620694-f59de33b-ada0-4f29-ab61-2abefe7d0706.png)
